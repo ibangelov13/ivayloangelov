@@ -1,4 +1,4 @@
-# ivayloangelov
+# ivayloangelov profile
 Data Analytics portfolio showcasing projects in business, sales, and financial market analysis.
 
 # Hi, I'm Ivaylo Angelov 👋
